@@ -1,0 +1,19 @@
+{
+  "name": "kahoot-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Systematic",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "input": "^1.0.1",
+    "kahoot.js-updated": "^2.4.0",
+    "prompt-sync": "^4.2.0",
+    "random-name": "^0.1.2",
+    "readline": "^1.3.0"
+  }
+}
